@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I'm Alexandre Neugebauer
+- 👯 I’m looking to be a FullStack Developer
+- 🌱 I’m currently learning:
+  - FrontEnd with HTML, CSS and JavaScript
+  - BackEnd with PHP
+- Still not learning
+
 
 <!--
 **Alexandre166/Alexandre166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +12,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
