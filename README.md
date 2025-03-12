@@ -4,6 +4,9 @@
   - FrontEnd with HTML, CSS and JavaScript
   - BackEnd with PHP
 - Still not learning JavaScript, PostgreSQL, Cloud Computing, PWA e DevOps
+- 📫 How to reach me:
+  - alexandreneugebauer@gmail.com
+  - https://www.linkedin.com/in/alexandre-neugebauer-da-silva-0b4108321/
 
 
 <!--
