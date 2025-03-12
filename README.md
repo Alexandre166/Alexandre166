@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning:
   - FrontEnd with HTML, CSS and JavaScript
   - BackEnd with PHP
-- Still not learning
+- Still not learning JavaScript, PostgreSQL, Cloud Computing, PWA e DevOps
 
 
 <!--
